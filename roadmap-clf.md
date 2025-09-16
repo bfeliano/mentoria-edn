@@ -13,11 +13,11 @@
 | 00:45 – 00:55 | Visão geral da certificação e domínios da prova |
 | 00:55 – 01:00 | Fechamento e próximos passos |
 
-### Vídeos  para casa
+### Vídeos para casa
 
-- [EC2 Overview – 14 min](https://youtu.be/yqDcpCwQIRg)  
-- [Criando EC2 Free Tier – 12 min](https://youtu.be/FH0Jt4kncXk)  
-- [Lambda Overview – 10 min](https://youtu.be/Va1Czs9Gxgo) 
+- [Criando uma instância EC2 (tutorial passo-a-passo)](https://www.youtube.com/watch?v=YfnHh-jb2eo)  
+- [AWS Lambda - Aprenda o Básico com este Hands-on](https://www.youtube.com/watch?v=KTpUKqYCvA8) 
+- [Guia Completo: Amazon EC2 para Iniciantes](https://www.youtube.com/watch?v=fe6TJ1l4JhA) (Opcional)
 
 ## Sessão 2 – Compute Services (EC2, Lambda, Lightsail)
 
@@ -33,8 +33,9 @@
 
 ### Vídeos para casa
 
-- [S3 Overview – 10 min](https://youtu.be/Ob5lvbJ4w6o)  
-- [EBS/EFS Overview – 12 min](https://youtu.be/qCmytCk8nPE)
+- [Amazon S3 — o que é e como criar um bucket](https://www.youtube.com/watch?v=37tUQb65vOo)  
+- [Qual diferença entre EBS, S3, EFS e Glacier ? EBS vs S3 vs EFS vs Glacier](https://www.youtube.com/watch?v=e-ROHnTT3oc)
+- [Armazenamento na AWS: S3, EBS, EFS e Quando Usar Cada Um](https://www.youtube.com/watch?v=uQoSxLz7oH0) (Opcional)
 
 ## Sessão 3 – Storage Services (S3, EBS, EFS, Glacier)
 
@@ -49,8 +50,8 @@
 
 ### Vídeos para casa
 
-- [VPC Overview – 12 min](https://youtu.be/LgIGVQKgkEo)  
-- [Security Groups – 9 min](https://youtu.be/8U7X8lHk1lM)  
+- [Como funciona "Rede/Network" dentro da AWS ?? VPC, AZ, SUBNET e RT](https://www.youtube.com/watch?v=3UCwOfHKZ38)  
+- [Security Groups](https://www.youtube.com/watch?v=vPnnW0O7-lE)  
 
 ## Sessão 4 – Networking Básico (VPC, Subnets, SG, Route 53, CloudFront)
 
@@ -65,7 +66,7 @@
 
 ### Vídeos para casa
 
-- [IAM Overview – 10 min](https://youtu.be/lsm_kjQdDY0) 
+- [Usuários, Roles e Permissões de Acesso AWS IAM](https://www.youtube.com/watch?v=spUlvo0HNFQ) 
 
 ## Sessão 5 – IAM e Shared Responsibility
 
@@ -79,9 +80,8 @@
 
 ### Vídeos para casa
 
-- [Pricing Overview – 12 min](https://youtu.be/d8AadMkbC8k)  
-- [Budgets – 8 min](https://youtu.be/lIfZb5eCE2c)  
-- [Well-Architected – 10 min](https://youtu.be/lWx7REPI1p4)  
+- [AWS Budgets Tutorial - Setup Alerts for AWS Billing](https://www.youtube.com/watch?v=O0sofGVT7uw) (Inglês)  
+- [Os 6 pilares da AWS Well Architecture Framework](https://www.youtube.com/watch?v=BCCe8-1Byoo) (Opcional mas recomendado)  
 
 ## Sessão 6 – Billing, Pricing & Well-Architected Framework
 
@@ -89,7 +89,6 @@
 | Horário | Atividade |
 |---------|-----------|
 | 00:00 – 00:15 | Dúvidas sobre os vídeos assistidos em casa ou serviços discutidos na aula anterior |
-| 00:00 – 00:15 | Dúvidas sobre vídeos (Pricing, Budgets, Well-Architected) |
 | 00:15 – 00:35 | Revisão curta de Pricing, Cost Explorer, Budgets, Support Plans, Well-Architected Framework |
 | 00:35 – 00:55 | Lab online guiado: criar um budget no console AWS ou simular custo no Pricing Calculator |
 | 00:55 – 01:00 | Compartilhar vídeos sobre Estratégias de Prova para próxima sessão |
@@ -113,4 +112,4 @@
 
 ### Vídeos para casa
 
-- [Revisão Geral Cloud Practitioner – 60 min (opcional)](https://youtu.be/z7-oqJ6Efnk)  
+- [Treinamento preparatório para a certificação](https://www.youtube.com/watch?v=VrQVDbgwFDs&t=10s)  
